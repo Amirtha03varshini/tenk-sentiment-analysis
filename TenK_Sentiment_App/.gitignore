@@ -1,0 +1,5 @@
+# Do not commit to GitHub: licensed dictionary + downloaded SEC filings (large)
+data/Loughran-McDonald_MasterDictionary_1993-2025.csv
+filings/
+__pycache__/
+*.pyc

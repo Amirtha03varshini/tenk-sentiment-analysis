@@ -1,0 +1,879 @@
+Management's Discussion and Analysis
+Overview
+Our MD&A begins with an overview of significant events and key developments in 2025 that meaningfully impacted our financial results and/or business. We then provide a detailed discussion of our operating segment results, followed by our consolidated results of operations and other required disclosures for 2025, 2024 and 2023. We conclude with a discussion of our critical accounting estimates.
+Significant Events and Trends Impacting Results
+The following discussion highlights significant events, key developments, and trends that we believe meaningfully impacted our consolidated financial results and financial position during 2025 and that we believe may continue to influence our future operating results and financial position, as well as specific matters that occurred in 2024 that impact the comparability of our results.
+U.S. Government Agreements 
+On August 22, 2025, we entered into a Warrant and Common Stock Agreement (U.S. Government Agreement) with the U.S. Department of Commerce (DOC) to support the continued expansion of U.S. semiconductor technology and manufacturing leadership. On August 27, 2025, pursuant to the terms of the U.S. Government Agreement:
+▪
+we entered into an amendment to our commercial CHIPS Act agreement with the DOC removing the prior project milestone         requirements and other conditions to disbursements under the agreement, as well as substantially all other requirements under the agreement other than those required by law, including those associated with the $2.3 billion previously received and recognized by us as government incentives pursuant to our government grant accounting policy;
+▪
+we received the full amount of the accelerated disbursements remaining under the commercial CHIPS Act agreement of $5.7 billion;
+▪
+we issued to the DOC 275 million shares of our common stock and a warrant to purchase up to 241 million shares of our common stock at $20.00 per share if we were to cease to directly or indirectly own at least 51% of our Intel Foundry business; and
+▪
+we issued into escrow 159 million shares of our common stock, to be released to the U.S. government on a $20.00 per share basis as we receive the $3.2 billion of disbursements contemplated by our existing agreement and related performance obligations with the U.S. government under the CHIPS Act's Secure Enclave program. As of December 27, 2025, we had released 3 million Escrowed Shares upon our receipt of cash proceeds for our performance under Secure Enclave.
+Our accounting conclusion for the U.S. Government Agreement as presented in our Consolidated Condensed Financial Statements that were included in our Q3 2025 Form 10-Q was subsequently adjusted based upon our consultation with the staff of the SEC on this matter, which concluded in our fourth quarter of fiscal 2025, subsequent to our Q3 2025 Form 10-Q filing date of November 6, 2025. Our results in this Annual Report on Form 10-K for the fiscal year ended December 27, 2025 are reflective of this consultation. We have concluded that such adjustments are immaterial to our Consolidated Condensed Financial Statements included in our Q3 2025 Form 10-Q. Refer to “Note 5: Earnings (Loss) Per Share and Stockholders' Equity" within Notes to Consolidated Financial Statements and to our Risk Factors section for additional details.
+Private Placement Share Sale Agreements 
+In Q3 2025, we entered into two agreements for the issuance and sale of shares of our common stock in private placements to support our strategic investments in advanced manufacturing, AI infrastructure and long-term growth initiatives:
+ 
+▪
+on August 18, 2025, we entered into an agreement with SoftBank Group to issue and sell to SoftBank Group 87 million shares of our common stock at $23.00 per share, representing an aggregate cash purchase price of $2.0 billion. The issuance and sale of the shares was completed on September 26, 2025; and 
+▪
+on September 15, 2025, we entered into an agreement with NVIDIA to issue and sell to NVIDIA 215 million shares of our common stock at $23.28 per share for an aggregate cash purchase price of $5.0 billion. The issuance and sale of the shares was completed on December 26, 2025.
+Altera Divestiture 
+On April 14, 2025, we signed a transaction agreement with SLP VII Gryphon Aggregator, L.P., an affiliate of SLP, to sell 51% of all issued and outstanding common stock of Altera, our wholly owned subsidiary as of that date. On September 12, 2025, we completed the divestiture of 51% of Altera for net purchase consideration of $4.3 billion, consisting of $4.8 billion in cash proceeds received within the third quarter of 2025, $500 million in deferred cash proceeds payable to us no later than December 31, 2027, an offset of $400 million for cash transferred to Altera with the sale, an offset of approximately $469 million in separation and employee-related costs we have agreed to fund to the purchaser, and an offset for other direct and incremental costs incurred in connection with the sale. As of December 27, 2025, we recorded $463 million within
+ other long-term assets
+ for the present value of deferred consideration outstanding from SLP and $327 million and $97 million within o
+ther accrued liabilities
+ and o
+ther long-term liabilities
+, respectively, for amounts payable to SLP for separation and employee-related costs that have not yet been paid. 
+MD&A
+18
+Table of Contents
+Upon closing the transaction, we deconsolidated Altera from our Consolidated Financial Statements and retained a 49% minority investment in Altera which we accounted for under the equity method of accounting. The $3.2 billion value of our non-marketable equity method investment in Altera is classified within 
+equity investments 
+in the
+ 
+Consolidated Balance Sheets at December 27, 2025, and was recognized as a non-cash investing activity within the 2025 Consolidated Statements of Cash Flows
+. 
+The Altera divestiture resulted in a pre-tax gain of $5.6 billion recognized within 
+interest and other, net
+, which is net of certain costs we have agreed to fund to SLP, as well as direct and incremental costs we incurred to sell the business. Approximately $2.1 billion of the gain resulted from the remeasurement of our non-marketable equity investment in Altera to its fair value at the transaction close date. Refer to "Note 10: Acquisitions and Divestitures" within Notes to Consolidated Financial Statements for further information.
+Restructuring
+2025
+In Q2 2025, we commenced an enterprise-wide initiative to transform our culture and the way in which we operate, which is designed to simplify the way we do business and drive transparency and accountability across the company. As part of this transformation, we implemented the 2025 Restructuring Plan to lower expenses, streamline our organizational structure and reduce management layers across functions while reallocating resources toward our core client and server businesses by reducing investment in lower-priority programs and initiatives. These headcount reduction initiatives reduced our core Intel workforce by approximately 15% by the end of fiscal 2025, as compared to our Q2 2025 ending employee headcount. In 2025, we recognized restructuring charges of $2.2 billion, consisting primarily of charges from initiating and deploying the 2025 Restructuring Plan and incurring charges as we substantially completed the 2024 Restructuring Plan. Charges in 2025 were primarily composed of cash-based employee severance and related employee exit charges of $1.8 billion and non-cash asset impairment charges of $474 million resulting from the exit of certain non-core lines of business and the consolidation and exit of certain real estate properties. 
+Our 2025 consolidated results of operations were also affected by accelerated depreciation and impairment charges recognized for certain manufacturing assets that were determined to have no remaining operational use. This determination was based on an evaluation of our current process technology node capacities relative to projected market demand for our products and services. These non-cash charges of $950 million, net of certain items, were recorded to cost of sales in 2025, impacting the results for our Intel Foundry segment.
+2024
+In 2024, we announced and initiated the 2024 Restructuring Plan, which reduced headcount, consolidated and reduced our global real estate footprint, and reduced our overall operating expenses. As a result of initiating and deploying our 2024 Restructuring Plan, we recognized restructuring charges of $2.8 billion in 2024 and $348 million in 2025.
+Our 2024 consolidated results of operations were also materially impacted by the following:
+▪
+$3.3 billion of charges, substantially all of which were recorded to cost of sales, related to non-cash impairments and the acceleration of depreciation for certain manufacturing assets, a substantial majority of which related to our Intel 7 process node;
+▪
+$3.1 billion of non-cash charges associated with the impairment of goodwill for certain of our reporting units as well as certain acquired intangible assets (see "Note 7: Restructuring and Other Charges" within Notes to Consolidated Financial Statements); and
+▪
+$9.9 billion of non-cash charges recorded to provision for income taxes that substantially related to valuation allowances recorded to our net deferred tax assets (see "Provision for (Benefit from) Taxes" within this MD&A below).
+Non-Controlling Interests
+Net income (loss) attributable to non-controlling interests is comprised of net income or loss attributable to the non-controlling interests in Mobileye, IMS Nanofabrication, Ireland SCIP and Arizona SCIP, all of which are our majority owned subsidiaries that we consolidate. Net income attributable to non-controlling interests was $293 million in 2025 and net loss attributable to non-controlling interests was $477 million and $14 million in 2024 and 2023, respectively. Net income attributable to non-controlling interests in 2025 was primarily driven by the placement of the first tranche of Arizona SCIP’s manufacturing assets into service during 2025 and the ramp of factory output from Fab 34 resold to us from Ireland SCIP. In 2024, net loss applicable to non-controlling interests related to the Q3 2024 non-cash impairment of goodwill related to our Mobileye reporting unit. We anticipate that net income attributable to non-controlling interests will continue to increase in 2026 as additional tranches of Arizona SCIP’s manufacturing assets are placed into service, and to increase significantly in 2027 following our expected completion of construction of Fab 34 in Ireland. Refer to "Note 4: Non-Controlling Interests" within Notes to Consolidated Financial Statements. 
+Manufacturing Expansion Projects and Future Node Development
+As part of the transformation of the company, in Q2 2025 we announced that we would take a more disciplined approach to the deployment of capital. The design, development and manufacturing of leading-edge semiconductor manufacturing process technologies, or nodes, is risky and capital-intensive, and it takes years for capital investments to yield a return. Under our more disciplined approach, we intend to invest capital in future node development and new or upgraded manufacturing facilities only where we have a clear line of sight to an acceptable return on that capital. 
+MD&A
+19
+Table of Contents
+On the manufacturing side, we initiated the consolidation of our Costa Rican assembly and test operations into larger existing sites in Vietnam and Malaysia, slowed the pace of construction for our new Ohio fab and discontinued planned expansions in Germany (fab) and Poland (assembly and test) to better align capital spending with market demand. These actions reflect our focus on deploying capital in coordination with tangible milestones and scaling capacity as needed.
+With respect to leading-edge process technology development, we recently released the Intel Core Ultra Series 3 processors, our first products manufactured on our new leading-edge node, Intel 18A, and we continue to develop its derivative node, Intel 18A-P, designed for future Intel products and external Intel Foundry customers. We are also focused on the continued development of Intel 14A, the next generation node beyond Intel 18A and Intel 18A-P, and on securing a significant external customer for such node. However, if we are unable to secure a significant external customer and meet important customer milestones for Intel 14A, we face the prospect that it will not be economical to develop and manufacture Intel 14A and successor leading-edge nodes on a go-forward basis. In such event, we may pause or discontinue our pursuit of Intel 14A and successor nodes and various of our manufacturing expansion projects. While we continue to evaluate Intel 14A for use in future Intel products and our plan includes an initial product designed to utilize Intel 14A, at present we are maintaining the option to design future Intel products requiring nodes with performance beyond Intel 18A and Intel 18A-P to be produced internally or by an external foundry. If we were to discontinue development of Intel 14A and successor nodes, we expect that a majority of our products would continue to be manufactured in our own facilities utilizing our nodes up to Intel 18A-P through at least 2030. By focusing on our customers and delivering the best semiconductor products to the market, manufactured on the most appropriate internal or external node from a performance and cost perspective, and only deploying capital on new nodes and manufacturing facilities where we believe they will yield an attractive return, we believe we can improve the competitiveness of our products business, and the overall financial results for the company.
+MD&A
+20
+Operating Segment Results
+In Q1 2025, we made an organizational change to integrate NEX into CCG and DCAI and modified our segment reporting to align to this and certain other business reorganizations. All prior period segment data has been retrospectively adjusted to reflect the way our CODM internally receives information and manages and monitors our operating segment performance. There were no changes to our Consolidated Financial Statements for any prior periods. As a result of these organizational changes, in 2025 we managed our business through the operating segments presented below and have included the 2025, 2024 and 2023 segment financial results and related discussions of our segments' results of operations. Our discussion regarding our segments' results of operations presented below excludes restructuring and other charges for all periods presented and $9.9 billion of 2024 charges resulting from valuation allowances recorded against our net deferred tax assets, in addition to certain other items, as our CODM receives, views and uses information for decision-making purposes based upon segment results that exclude such items. "Note 3: Operating Segments" within Notes to Consolidated Financial Statements of this Form 10-K reconciles our segment and consolidated results for each of the periods presented.
+Intel Products
+Intel Products consists substantially of the design, development, marketing, sale, support and servicing of CPUs and related semiconductor products for third-party customers. Intel Products is comprised of two operating segments: CCG and DCAI. CCG delivers platforms and processors that power PCs and edge devices, enabling enhanced performance, connectivity and user experiences for consumer and commercial markets with capabilities that also support retail, industrial robotics and AI ecosystems at the edge. DCAI delivers workload-optimized solutions based upon our x86 architecture for data centers, including CPUs, AI accelerators, NICs, IPUs and custom ASICs, enabling performance and scalability for cloud, enterprise, telecommunication and HPC environments. The manufacturing of our Intel Products offerings is performed by Intel Foundry and, to a lesser extent, by certain third party manufacturers.
+Intel Products Financial Performance
+1
+Dec 27, 2025
+Year Ended ($ In Millions)
+CCG
+DCAI
+Total
+Revenue
+$
+32,228
+ 
+$
+16,919
+ 
+$
+49,147
+ 
+Cost of sales and operating expenses
+22,911 
+13,497 
+36,408 
+Operating income 
+$
+9,317
+ 
+$
+3,422
+ 
+$
+12,739
+ 
+Operating margin %
+29%
+20%
+26%
+Dec 28, 2024
+Year Ended ($ In Millions)
+CCG
+DCAI
+Total
+Revenue
+$
+33,346
+ 
+$
+16,125
+ 
+$
+49,471
+ 
+Cost of sales and operating expenses
+21,752 
+14,711 
+36,463 
+Operating income 
+$
+11,594
+ 
+$
+1,414
+ 
+$
+13,008
+ 
+Operating margin %
+35%
+9%
+26%
+Dec 30, 2023
+Year Ended ($ In Millions)
+CCG
+DCAI
+Total
+Revenue
+$
+32,305
+ 
+$
+15,980
+ 
+$
+48,285
+ 
+Cost of sales and operating expenses
+22,177 
+15,035 
+37,212 
+Operating income 
+$
+10,128
+ 
+$
+945
+ 
+$
+11,073
+ 
+Operating margin %
+31%
+6%
+23%
+1    
+Operating segment results include intersegment financial activity; refer to "Note 3: Operating Segments" within Notes to Consolidated Financial Statements for a reconciliation between our operating segment and consolidated financial results for the periods presented.
+MD&A
+21
+Operating Segment Revenue Summary
+2025 vs. 2024
+Total Intel Products revenue was $49.1 billion in 2025, down $324 million from 2024.
+▪
+CCG revenue decreased $1.1 billion from 2024. Client revenue (collectively notebook and desktop) was $27.6 billion in 2025, down $1.1 billion from 2024, primarily due to lower 2025 client volume resulting from incremental customer incentives offered to certain customers in the first half of 2024 and customer inventory level reductions in 2025. Customers normalized inventory levels through Q3 2025 and continued to reduce inventory levels in Q4 2025, when supply constraints on our internally manufactured wafers limited product availability despite underlying demand. This decrease in 2025 revenue was partially offset by higher Q3 2025 client volumes driven by higher demand; however, client volume decreased in Q4 2025 as market demand exceeded our available supply of products due to Intel Foundry wafer fabrication supply constraints, primarily with respect to our Intel 7 process node. We expect these supply constraints to persist into 2026, with the most severe constraints impacting 
+Q1 2026
+, limiting our ability to fully meet customer demand. Client ASPs in 2025 were roughly flat with 2024. Other CCG revenue was $4.6 billion, roughly flat with 2024.
+▪
+DCAI revenue increased $794 million from 2024, primarily driven by higher server revenue due to higher hyperscale customer-related demand, which contributed to an increase in server volume of 9%. Server ASPs decreased by 4% from 2024, primarily due to pricing actions taken primarily during the first half of 2025 and a higher mix of lower core count products, both driven by a competitive environment, partially offset by higher ASPs in the second half of 2025 resulting from higher demand. Our 2025 server revenue was limited in Q4 2025 by our available supply of products due to Intel Foundry wafer fabrication supply constraints, primarily with respect to our Intel 7 and Intel 3 process nodes, impacting our ability to fully meet demand. We expect these supply constraints to persist into 2026, with the most severe constraints impacting 
+Q1 2026
+. Other DCAI product revenue also increased from 2024 driven by higher networking customer-related demand. 
+2024 vs. 2023
+Total Intel Products revenue was $49.5 billion in 2024, up $1.2 billion from 2023.
+▪
+CCG revenue increased $1.0 billion from 2023. Client revenue (collectively notebook and desktop) was $28.7 billion in 2024, up $1.6 billion from 2023, primarily due to an increase in 2024 client volume of 7% as customer inventory levels improved compared to higher levels in 2023. Client ASPs in 2024 were roughly flat with 2023. Other CCG revenue was $4.6 billion, down $521 million from 2023, primarily driven by the exit of legacy businesses. 
+▪
+DCAI revenue increased $145 million from 2023, primarily driven by an increase in server revenue. Server ASPs increased 11% from 2023, primarily due to a higher mix of high core count products. Server volume decreased 8% from 2023, due to lower demand in a competitive environment and a higher mix of high core count products. Other DCAI product revenue was $2.7 billion, down $196 million from 2023, primarily due to 5G customers tempering purchases to reduce existing inventories.
+Segment Operating Income Summary
+2025 vs. 2024
+Total Intel Products operating income was $12.7 billion in 2025, down $269 million from 2024.
+▪
+CCG operating income decreased $2.3 billion from 2024, primarily due to $2.9 billion of unfavorable impacts attributable to $1.8 billion of lower 2025 product profit due to lower revenue and higher client unit costs resulting from an increased mix of newer generation products sold in 2025, as well as $1.1 billion of higher 2025 period charges related to higher inventory reserves related to lower of cost or net realizable value charges and higher other costs. These unfavorable 2025 impacts were partially offset by 2025 favorable impacts of lower operating expenses of $590 million, primarily due to lower payroll-related expenditures as a result of headcount reductions taken under the 2025 and 2024 Restructuring Plans and the effects of various other cost-reduction measures.
+▪
+DCAI operating income increased $2.0 billion from 2024, primarily due to $1.5 billion of favorable impacts related to lower operating expenses, primarily driven by lower payroll-related expenditures as a result of headcount reductions taken under the 2025 and 2024 Restructuring Plans and the effects of various other cost-reduction measures. In addition, 2025 DCAI operating income was favorably impacted by lower 2025 Gaudi AI accelerator inventory-related charges relative to 2024. The 2025 impacts of higher 2025 DCAI revenue was substantially offset by higher server unit costs from an increased mix of newer generation products sold in 2025.
+MD&A
+22
+2024 vs. 2023
+Total Intel Products operating income was $13.0 billion in 2024, up $1.9 billion from 2023.
+▪
+CCG operating income increased $1.5 billion from 2023, primarily due to $1.0 billion of favorable impacts attributable to higher product profit due to higher revenue in 2024 and lower period charges related to lower samples. Operating income also improved from 2023 due to favorable impacts from lower operating expenses of $423 million primarily driven by intersegment credits and various cost-reduction measures taken in 2024. 
+▪
+DCAI operating income increased $469 million from 2023, primarily due to favorable impacts from lower period charges from the sell-through of previously reserved inventory and lower non-accelerator inventory reserves taken in 2024. These favorable impacts to operating income were partially offset by higher period charges due to $922 million in Gaudi AI accelerator inventory-related charges recognized in 2024 and higher operating expenses of $151 million primarily driven by increased product development costs in 2024.
+Intel Foundry
+ 
+Intel Foundry, comprised of technology development, manufacturing and foundry services, develops new leading-edge semiconductor process technologies and advanced packaging technologies and provides manufacturing, assembly and test and advanced packaging capacity and design enablement solutions across multiple nodes and platforms. We continue to innovate and advance leading-edge semiconductor process technology and manufacturing in the U.S., where we are the only company conducting both leading-edge logic R&D and high-volume manufacturing. At present, nearly all of our Intel Foundry business supports internal manufacturing for Intel Products; however, we are offering our Intel Foundry services to external customers and aim to develop a more significant external foundry business in the future.
+Intel Foundry Financial Performance
+1
+Years Ended ($ In Millions)
+Dec 27, 2025
+Dec 28, 2024
+Dec 30, 2023
+Revenue
+$
+17,826
+ 
+$
+17,317
+ 
+$
+18,504
+ 
+Cost of sales and operating expenses
+28,144 
+30,608 
+25,587 
+Operating loss
+$
+(10,318)
+$
+(13,291)
+$
+(7,083)
+Operating loss %
+(58)%
+(77)%
+(38)%
+1
+ 
+Operating segment results include intersegment financial activity; refer to "Note 3: Operating Segments" within Notes to Consolidated Financial Statements for a reconciliation between our operating segment and consolidated financial results for the periods presented.
+Operating Segment Revenue Summary
+2025 vs. 2024
+Revenue was 
+$17.8 billion in 2025
+, 
+up
+ 
+$509 million
+ from 2024. Intersegment revenue was 
+$17.5 billion, up $361 million from 2024, primarily due to higher back-end services revenue and higher wafer volume from our Intel 3, Intel 4 and Intel 18A process nodes, partially offset by lower intersegment samples revenue. External revenue was $307 million, up $148 million from 2024
+.
+2024 vs. 2023
+Revenue was 
+$17.3 billion in 
+2024
+,
+ 
+down $1.2 billion from 2023. Intersegment revenue was $17.2 billion, down $799 million from 
+2023
+, primarily due to lower intersegment ASPs, lower back-end services revenue, and higher intersegment credits, partially offset by higher intersegment revenue due to higher wafer volume primarily from Intel 3, Intel 4 and Intel 7 products. External revenue was $159 million, down $388 million from 2023, primarily due to lower traditional packaging services.
+Segment Operating Loss Summary
+2025 vs. 2024
+Operating loss was $10.3 billion in 2025, compared to an operating loss of $13.3 billion in 2024, primarily due to a reduction in asset impairments and accelerated depreciation charges. In 2025, we incurred $950 million of asset impairments and accelerated depreciation charges related to certain manufacturing assets determined to have no remaining operational use, compared to $3.3 billion of non-cash impairments and accelerated depreciation charges recognized in 2024 that were primarily related to manufacturing assets for our Intel 7 process node. Additionally, 2025 benefited from $1.2 billion of lower operating expenses, primarily due to lower payroll-related expenditures as a result of headcount reductions taken under the 2025 and 2024 Restructuring Plans and the effects of various other cost-reduction measures. These favorable 2025 impacts were partially offset by $849 million of higher 2025
+ 
+intersegment inventory reserves related to lower of cost or net realizable value charges for products manufactured on the early ramp of our Intel 18A process node.
+MD&A
+23
+2024 vs. 2023
+Operating loss was $13.3 billion in 2024, compared to an operating loss of $7.1 billion in 2023, primarily driven by higher period charges related to non-cash impairments and accelerated depreciation of $3.3 billion for certain manufacturing assets, a substantial majority of which related to our Intel 7 process node; lower product profit of $2.5 billion primarily driven by higher costs from the ramp of advanced technologies and lower intersegment revenue; and higher operating expenses of $931 million primarily driven by increased investments in process technology.
+All Other
+Our "all other" category includes the results of operations from non-reportable segments, including our Mobileye business, our IMS business, start-up businesses that support our initiatives and historical results of operations from divested businesses, including Altera. Effective September 12, 2025, Altera, previously a wholly-owned subsidiary, was deconsolidated from our Consolidated Financial Statements following the closing of the sale of 51% of Altera's issued and outstanding common stock. Altera's financial results of operations were included in our "all other" category through September 11, 2025. As of September 12, 2025, our retained non-marketable equity interest in Altera is accounted for as an equity method investment. See "Note 10: Acquisitions and Divestitures" within Notes to Consolidated Financial Statements for further information.
+All Other Financial Performance
+1
+Years Ended ($ In Millions)
+Dec 27, 2025
+Dec 28, 2024
+Dec 30, 2023
+Revenue
+$
+3,563
+ 
+$
+3,601
+ 
+$
+5,463
+ 
+Cost of sales and operating expenses
+3,299 
+3,658 
+3,956 
+Operating income (loss)
+$
+264
+ 
+$
+(57)
+$
+1,507
+ 
+Operating margin (loss) %
+7%
+(2)%
+28%
+1 
+Operating segment results include intersegment financial activity; refer to "Note 3: Operating Segments" within Notes to Consolidated Financial Statements for a reconciliation between our operating segment and consolidated financial results for the periods presented.
+Operating Segments Revenue Summary
+2025 vs. 2024
+All other revenue was $3.6 billion, down $38 million from 2024, primarily driven by lower revenue from our other non-reportable segments due to the Q3 2025 divestiture of Altera. This 2025 decrease was substantially offset by higher 2025 Mobileye revenue, which totaled $1.9 billion, up $240 million from 2024 due to improved customer inventory levels and higher demand for Eye Q® products.
+2024 vs. 2023
+All other revenue was $3.6 billion, down $1.9 billion from 2023. Altera revenue was $1.5 billion, down $1.3 billion from 2023, as customers tempered purchases to reduce existing inventories across all product lines. Mobileye revenue was $1.7 billion, down $425 million from 2023, as customers tempered purchases to reduce existing inventories of EyeQ® products.
+Segments Operating Income (Loss) Summary
+2025 vs. 2024
+All other operating income was $264 million in 2025, compared to an operating loss of $57 million in 2024, primarily driven by higher Mobileye 2025 revenue and improved 2025 operating income contribution from Altera.
+2024 vs. 2023
+All other operating loss was $57 million in 2024 compared to operating income of $1.5 billion in 2023, primarily driven by lower Altera and Mobileye revenue.
+MD&A
+24
+Consolidated Results of Operations
+Years Ended 
+(In Millions, Except Per Share Amounts)
+December 27, 2025
+December 28, 2024
+December 30, 2023
+Amount
+% of Net
+Revenue
+1
+ 
+Amount
+% of Net
+Revenue
+1
+Amount
+% of Net
+Revenue
+1
+ 
+Net revenue
+$
+52,853
+ 
+100.0
+ 
+%
+$
+53,101
+ 
+100.0
+ 
+%
+$
+54,228
+ 
+100.0
+ 
+%
+Cost of sales
+34,478 
+65.2 
+%
+35,756 
+67.3 
+%
+32,517 
+60.0 
+%
+Gross profit
+18,375
+ 
+34.8
+ 
+%
+17,345
+ 
+32.7
+ 
+%
+21,711
+ 
+40.0
+ 
+%
+Research and development
+13,774 
+26.1 
+%
+16,546 
+31.2 
+%
+16,046 
+29.6 
+%
+Marketing, general, and administrative
+4,624 
+8.7 
+%
+5,507 
+10.4 
+%
+5,634 
+10.4 
+%
+Restructuring and other charges
+2,191 
+4.1 
+%
+6,970 
+13.1 
+%
+(62)
+(0.1)
+%
+Operating income (loss)
+(2,214)
+(4.2)
+%
+(11,678)
+(22.0)
+%
+93
+ 
+0.2
+ 
+%
+Gains (losses) on equity investments, net
+514 
+1.0 
+%
+242 
+0.5 
+%
+40 
+0.1 
+%
+Interest and other, net
+3,257 
+6.2 
+%
+226 
+0.4 
+%
+629 
+1.2 
+%
+Income (loss) before taxes
+1,557
+ 
+2.9
+ 
+%
+(11,210)
+(21.1)
+%
+762
+ 
+1.4
+ 
+%
+Provision for (benefit from) taxes
+1,531 
+2.9 
+%
+8,023 
+15.1 
+%
+(913)
+(1.7)
+%
+Net income (loss)
+26
+ 
+—
+ 
+%
+(19,233)
+(36.2)
+%
+1,675
+ 
+3.1
+ 
+%
+Less: net income (loss) attributable to non-controlling interests
+293 
+0.6 
+%
+(477)
+(0.9)
+%
+(14)
+— 
+%
+Net income (loss) attributable to Intel
+$
+(267)
+(0.5)
+%
+$
+(18,756)
+(35.3)
+%
+$
+1,689
+ 
+3.1
+ 
+%
+Earnings (loss) per share attributable to Intel—diluted
+$
+(0.06)
+$
+(4.38)
+$
+0.40
+ 
+1
+   Totals may not sum due to rounding.
+The following discussion includes the 2025, 2024 and 2023 consolidated financial results and related discussion of our consolidated results of operations for 2025 relative to 2024. A discussion regarding our consolidated results of operations for 2024 relative to 2023 is included in our 2024 Form 10-K. Our consolidated results exclude all intersegment transactions.
+Consolidated Revenue
+Consolidated Revenue Walk $B
+1
+1
+   Excludes intersegment revenue; totals may not sum due to rounding.
+2025 vs. 2024
+Our 2025 revenue was $52.9 billion, down $248 million from 2024. Intel Products revenue was roughly flat with 2024, primarily due to lower CCG revenue that was substantially offset by higher DCAI revenue. CCG revenue decreased 3% from 2024 primarily due to lower client revenue in the first half of 2025 driven by lower client volumes that were primarily attributable to the reduction of incremental  incentives offered to certain customers in the first half of 2024. In addition, CCG 2025 revenue was impacted by customer inventory level reductions in 2025 and by supply constraints on our internally manufactured wafers in 2025 which affected our ability to fully meet market demand primarily for our products manufactured using our Intel 7 process node. DCAI revenue increased 5% from 2024 driven by higher server revenue due to higher hyperscale customer-related demand and higher product revenue from higher networking customer-related demand. Our 2025 DCAI revenue was limited in Q4 2025 by our available supply of products due to wafer fabrication supply constraints at our manufacturing facilities, primarily with respect to our Intel 7 and Intel 3 process nodes, which impacted our ability to fully meet customer demand. We expect these supply constraints to persist into 2026 and industry wide shortages of substrates, memory and other critical components may further limit our ability to meet CCG and DCAI customer demand in 2026. 
+MD&A
+25
+Consolidated Gross Profit
+We derived a majority of our consolidated gross profit in 2025 and 2024 from our Intel Products business sales through our CCG and DCAI operating segments.
+Gross Profit $B
+(Percentages in chart indicate gross profit as a percentage of total revenue)
+ 
+2025 vs. 2024
+Our consolidated gross profit in 2025 increased by $1.0 billion, or 6%, compared to 2024, primarily due to a reduction in asset impairments and accelerated depreciation charges. In 2025, we incurred $950 million of asset impairments and accelerated depreciation charges related to certain manufacturing assets determined to have no remaining operational use, compared to $3.3 billion of non-cash impairments and accelerated depreciation charges recognized in 2024, primarily related to manufacturing assets for our Intel 7 process node. In addition, our consolidated gross profit in 2025 benefited from reduced Gaudi AI accelerator inventory-related charges relative to 2024. These favorable impacts to 2025 gross margin were partially offset by $878 million of higher 2025 inventory reserves, primarily related to lower of cost or net realizable value charges for products manufactured on the early ramp of our Intel 18A process node.
+We are making capital investments in furtherance of our strategy. As of December 27, 2025, our capital investments classified as construction in progress totaled $34.5 billion ($50.4 billion as of December 28, 2024) and decreased in 2025 as Arizona SCIP placed the first tranche of manufacturing assets into service in connection with the ramp of our 18A process node. Construction in progress assets have not yet been placed into service and have not yet begun depreciating. As these construction-in-progress assets are placed into service, we expect to incur depreciation expense that impacts future production costs and ultimately cost of sales. To the extent we are unable to grow our revenues to offset these production costs, our gross margin and operating income will be unfavorably affected. Additionally, we could incur asset impairments on property, plant and equipment assets if our strategy is not successful.
+MD&A
+26
+Consolidated R&D and MG&A Expenses
+Total R&D and MG&A expenses for 2025 were $18.4 billion, down 17% compared to 2024. These expenses represented 34.8% of revenue for 2025 and 41.5% of revenue for 2024. In support of our strategy, we continue to make investments to advance our product and process technology roadmaps. As a result of our 2025 and 2024 Restructuring Plans and other related cost-reduction measures and the divestiture of Altera, we expect total R&D and MG&A expenses to decrease in 2026 relative to recent historical periods.
+Research and Development $B
+Marketing, General, and Administrative $B
+(Percentages in chart indicate operating expenses as a percentage of total revenue)
+ 
+Research and Development
+2025 vs. 2024
+2025 R&D expenses decreased by $2.8 billion, or 17%, from 2024, primarily driven by lower payroll-related expenditures resulting from headcount reductions taken under the 2025 and 2024 Restructuring Plans and other related cost-reduction measures, and $610 million of lower share-based compensation. These 2025 R&D expense reductions were partially offset by higher 2025 incentive-based cash compensation of $418 million.
+Marketing, General, and Administrative
+2025 vs. 2024
+2025 MG&A expenses decreased by $883 million, or 16%, from 2024, primarily driven by lower payroll-related expenditures resulting from headcount reductions taken under the 2025 and 2024 Restructuring Plans and other related cost-reduction measures, and $109 million of lower share-based compensation. These 2025 MG&A expense reductions were partially offset by higher 2025 incentive-based cash compensation of $118 million.
+MD&A
+27
+Restructuring and Other Charges
+Years Ended (In Millions)
+Dec 27, 2025
+Dec 28, 2024
+Dec 30, 2023
+Employee severance and benefit arrangements
+$
+1,790 
+$
+2,481 
+$
+222 
+Litigation charges and other
+(121)
+858 
+(329)
+Asset impairment charges
+522 
+3,631 
+45 
+Total restructuring and other charges
+$
+2,191
+ 
+$
+6,970
+ 
+$
+(62)
+In Q2 2025, we announced and commenced the 2025 Restructuring Plan, which was designed to streamline our organizational structure, enable us to focus on our core businesses and lower our overall operating expenses (see "Note 7: Restructuring and Other Charges" within Notes to Consolidated Financial Statements). A majority of the actions contemplated by the 2025 Restructuring Plan were completed by the end of Q4 2025, with the remainder expected to be completed in 2026. Any changes to the estimates or timing will be reflected in our results of operations.
+The 2024 Restructuring Plan, which we initiated in Q3 2024, was substantially completed by the end of Q4 2025, with the remainder expected to be completed in 2026. 
+The 2022 Restructuring Plan, which we initiated in Q3 2022, was completed in Q1 2024.
+2025 vs. 2024
+Employee severance and benefit arrangements
+ includes net charges relating to the 2025 Restructuring Plan of $1.5 billion, and 2024 Restructuring Plan and other actions of $281 million in 2025. The charges in 2024 primarily related to the 2024 Restructuring Plan and 2022 Restructuring Plan. 
+Litigation charges and other 
+includes a $163 million benefit recorded in 2025 from the reduction of a previously accrued fine imposed in 2023 by the EC. The 2024 charges include $780 million arising out of the R2 litigation. Refer to "Note 19: Commitments and Contingencies" within Notes to Consolidated Financial Statements and our 2024 Form 10-K for information about the EC fine and R2 litigation, respectively.
+Asset impairment charges
+ in 2025 primarily included $522 million of non-cash charges associated with the 2025 Restructuring Plan resulting from the exit of certain non-core lines of business and the consolidation and exit of certain real estate properties. The asset impairment charges in 2024 included non-cash charges associated with the 2024 Restructuring Plan, including $442 million of non-cash impairments of construction-in-progress assets associated with our decision to exit and outsource manufacturing capabilities for certain internal test hardware; and $103 million of non-cash impairments of operating leased assets and related leasehold improvements resulting from real estate consolidations and exits. 
+Real estate consolidations and exits did not significantly change our operating lease liabilities and may result in future cash outlays for facility restoration or the relocation of operations. 
+In addition, we incurred non-cash impairments relating to goodwill and acquired intangibles of $3.1 billion in 2024. Refer to "Note 7: Restructuring and Other Charges" and "Note 11: Goodwill" within Notes to Consolidated Financial Statements for further information about these items
+.
+Gains (Losses) on Equity Investments, Net and Interest and Other, Net
+Years Ended (In Millions)
+Dec 27, 2025
+Dec 28, 2024
+Dec 30, 2023
+Unrealized gains (losses) on marketable equity investments, net
+$
+(311)
+$
+(218)
+$
+(99)
+Unrealized gains (losses) on non-marketable equity investments, net
+1
+490 
+92 
+17 
+Impairment charges on non-marketable equity investments
+(300)
+(347)
+(214)
+Unrealized gains (losses) on equity investments, net
+(121)
+(473)
+(296)
+Realized gains (losses) on sales of equity investments, net
+635 
+715 
+336 
+Gains (losses) on equity investments, net
+$
+514
+ 
+$
+242
+ 
+$
+40
+ 
+Interest and other, net
+$
+3,257
+ 
+$
+226
+ 
+$
+629
+ 
+1    
+Unrealized gains (losses) on non-marketable investments includes observable price adjustments and our share of equity method investee gains (losses) and certain distributions.
+Gains (Losses) on Equity Investments, Net 
+2025 vs. 2024
+In 2025, we recognized net gains on equity investments of $514 million that were primarily driven by realized gains on sales of equity investments, partially offset by 2025 net unrealized losses on equity investments. Included in 2025 unrealized gains (losses) on non-marketable equity investments, net was $396 million of upward observable price adjustments related to a single investee. 
+In 
+2024, we recognized net gains on equity investments of $242 million, primarily due to $460 million of net gains related to our marketable equity investment portfolio, the majority of which related to the sale of our interest in Astera Labs and was included within 
+realized gains (losses) on sales of equity investments, net
+.
+MD&A
+28
+Interest and Other, Net
+2025 vs. 2024
+In 2025, interest and other, net, increased primarily due to a gain recognized from the sale of 51% of Altera, which resulted in a $5.6 billion pre-tax gain. This was partially offset by a $1.8 billion net loss from the change in fair value of the derivative liability for the Escrowed Shares and $229 million in charges related to the sale of our NAND memory business. Refer to "Note 5: Earnings (Loss) Per Share and Stockholders' Equity" and "Note 10: Acquisitions and Divestitures" within Notes to Consolidated Financial Statements.
+Provision for (Benefit from) Taxes
+Years Ended ($ In Millions)
+Dec 27, 2025
+Dec 28, 2024
+Dec 30, 2023
+Income (loss) before taxes
+$
+1,557 
+$
+(11,210)
+$
+762 
+Provision for (benefit from) taxes
+$
+1,531 
+$
+8,023 
+$
+(913)
+Effective tax rate
+98.3 
+%
+71.6 
+%
+(119.8)
+%
+2025 vs. 2024
+Our effective tax rate increased in 2025 compared to 2024, primarily related to a change in 2025 valuation allowance against current year tax attributes relative to the corresponding 2024 activity, offset by a nonrecurring 2025 gain on the Altera divestiture. During Q3 2024, we first established a valuation allowance of $9.9 billion as a discrete non-cash tax expense against our U.S. deferred tax assets. We assess the recoverability of our deferred tax assets quarterly, weighing available positive and negative evidence. As a result of our assessment in the third quarter of 2024, we determined it was more likely than not that the deferred tax assets will not be recoverable based upon our three-year cumulative historical loss position as of September 28, 2024, largely resulting from the asset impairment and restructuring and other charges incurred during the quarter.
+On July 4, 2025, the One Big Beautiful Bill Act ("the Act") was signed into law. The Act makes permanent key elements of the Tax Cuts and Jobs Act, including 100 percent bonus depreciation, domestic research cost expensing, increases the AMIC credit rate to 35 percent from 25 percent for qualifying assets and makes modifications to the international tax framework. The Act includes multiple effective dates, with certain provisions effective in 2025 and others phased in through 2027. We continue to evaluate the impact of the Act's provisions that take effect in future years.
+Liquidity and Capital Resources
+We believe we have sufficient sources of funding to meet our business requirements for the next 12 months and in the longer term. Our primary sources of liquidity are cash generated by operations and our 
+total cash and short-term investments
+ (defined below), supplemented by undrawn committed credit facilities and other borrowing capacity, recent equity securities agreements and issuances, possible future debt and equity issuances pursuant to our shelf registration statement, monetization of non-core assets and contributions from our Arizona SCIP partner.
+Cash from Operating Activities and Adjusted Free Cash Flow $B
+■
+ Cash from Operating Activities
+■
+ Adjusted Free Cash Flow
+Cash from Operating Activities
+Cash from operations is primarily made up of collections from customers and non-capital payments related to the manufacturing and sale of our products, including employee-related expenses. The amount of cash generated from our operations can vary depending on factors such as product pricing, volumes sold, production-related costs and other factors. Refer to "Operating Activities" below for additional information.
+MD&A
+29
+Adjustments to Cash from Operating Activities
+Adjusted Free Cash Flow is a non-GAAP financial measure and an additional means used by management to evaluate the cash flow trends of our business as it is viewed as helpful in understanding our capital requirements and sources of liquidity. The measure is calculated using cash flow from operations and adjusted for the following:
+▪
+additions to property, plant and equipment, net of proceeds from capital-related government incentives and net SCIP partner contributions; and
+▪
+payments on financing leases.
+This non-GAAP financial measure should not be considered a substitute for, or superior to, financial measures calculated in accordance with U.S. GAAP, and the financial results calculated in accordance with U.S. GAAP and reconciliations from these results should be carefully evaluated.
+The following is the reconciliation of our most comparable U.S. GAAP measure to our non-GAAP measure presented:
+Years Ended (In Millions)
+Dec 27, 2025
+Dec 28, 2024
+Dec 30, 2023
+Net cash provided by (used for) operating activities
+$
+9,697
+ 
+$
+8,288
+ 
+$
+11,471
+ 
+Net purchase of property, plant and equipment (net capital expenditures)
+(11,204)
+(10,515)
+(23,228)
+Payments on finance leases
+(105)
+(1)
+(96)
+Adjusted free cash flow
+$
+(1,612)
+$
+(2,228)
+$
+(11,853)
+Net cash provided by (used for) investing activities
+$
+(14,821)
+$
+(18,256)
+$
+(24,041)
+Net cash provided by (used for) financing activities
+$
+11,587
+ 
+$
+11,138
+ 
+$
+8,505
+ 
+Short-Term Investing and Borrowing
+When assessing our current sources of liquidity, we consider our total cash and short-term investments balances as follows: 
+(In Millions)
+Dec 27, 2025
+Dec 28, 2024
+Cash and cash equivalents
+$
+14,265 
+$
+8,249 
+Short-term investments
+23,151 
+13,813 
+Total cash and short-term investments
+$
+37,416
+ 
+$
+22,062
+ 
+Total debt
+$
+46,585
+ 
+$
+50,011
+ 
+In 2025, we settled in cash $3.7 billion of our senior notes that matured in March 2025 and July 2025. We expect to replace or amend the 364-day $5.0 billion credit facility agreement prior to its maturity at the end of January 2026. We have other potential sources of liquidity, including a $7.0 billion revolving credit facility, which remains available until February 2029, our commercial paper program and our automatic shelf registration statement on file with the SEC, pursuant to which we may offer an unspecified amount of debt, equity and other securities. Under our commercial paper program, we have an ongoing authorization from our Board of Directors to borrow up to $10.0 billion. We borrowed and repaid $3.5 billion in 2025 pursuant to our commercial paper program. As of December 27, 2025, we had no commercial paper obligations outstanding and no outstanding borrowings on the revolving credit facilities. See "Note 13: Borrowings" within Notes to Consolidated Financial Statements for further information.
+Our total cash and investments and related cash flows may be affected by certain discretionary actions we may take with customers and suppliers to accelerate or delay certain cash receipts or payments to manage liquidity, among other factors, for our strategic business requirements. In 2025, these actions included, among others, negotiating with suppliers to optimize our payment terms and conditions, adjusting the amounts and timing of cash flows associated with customer sales programs and collections, managing inventory levels and purchasing practices and selling certain of our accounts receivable on a non-recourse basis to third-party financial institutions. While such actions have benefited, and may further benefit, cash flow in the near term, we may experience a corresponding detriment to cash flow in future periods as these actions cease or as the impacts of these actions reverse or normalize. 
+In August 2025, a major credit rating agency downgraded our corporate credit rating from BBB+ to BBB, citing execution risks tied to our technology roadmap and foundry strategy, delayed deleveraging and weaker than expected demand for our offerings. The downgrade may affect our future borrowing costs and access to capital markets.
+We maintain a diverse investment portfolio that we continually analyze based on issuer, industry and country. Substantially all of our investments in debt instruments were in investment-grade securities in 2025. 
+MD&A
+30
+Other Sources of Liquidity
+As described in the introduction of this MD&A section, in the second half of 2025 we entered into and concluded upon certain investing and financing transactions, including the Altera divestiture and retained equity investment, an amendment to our CHIPS Act commercial agreement that accelerated $5.7 billion of funding to us, and private placement share sales agreements.
+Also in 2025, we received net proceeds of $921 million from the net sale of 57.5 million of our Mobileye Class A shares, and we received $1.8 billion of cash proceeds, net of certain adjustments, related to the completion of the second phase of our NAND memory business divestiture. See "Note 4: Non-Controlling Interests" and "Note 10: Acquisitions and Divestitures" within Notes to Consolidated Financial Statements for further information.
+Funding Requirements
+Our short-term funding requirements include capital expenditures for worldwide manufacturing and assembly and test, including investments in our process technology roadmap; investments in our product roadmap; working capital requirements, including cash outlays associated with the 2025 Restructuring Plan and prepayments we may enter into to secure supply; partner distributions to our non-controlling interest holders; pending and potential acquisitions; and strategic investments. Our long-term funding requirements incrementally contemplate investments in significant manufacturing expansion plans and investments to accelerate our process technology. These plans include expanding existing operations in Arizona, New Mexico and Oregon and investing in a new leading-edge manufacturing facility in Ohio in the long term.
+We adjust the cadence of our investments based on the execution of our roadmap and changing business conditions. As of December 27, 2025, we had commitments for capital expenditures of $9.1 billion for 2026 and had $3.7 billion in capital expenditures committed in the long term. As of December 27, 2025, other purchase obligations and commitments in 2026 under our binding commitments for purchases of goods and services were $2.2 billion, with an additional $4.5 billion committed in the long term.
+In 2025, we recorded a $163 million benefit from the reduction of the previously accrued EC-imposed fine of $401 million recorded in 2023. While the fine remains unpaid on appeal, our obligation is guaranteed by a third party. We funded the guarantee in 2025 by depositing $340 million in legally restricted accounts.
+In January 2026, Mobileye entered into a definitive agreement to acquire Mentee Robotics for an aggregate purchase price of approximately $900 million, subject to customary adjustments and closing conditions. Refer to "Note 10: Acquisitions and Divestitures" within Notes to Consolidated Financial Statements for additional details.
+We have additional obligations as part of our ordinary course of business, which include the following:
+▪
+related to our SCIP arrangements: variable distribution payments that we expect to make to our co-investment partners and liquidated damage provisions that trigger should we fail to meet certain construction milestones or operational metrics;
+▪
+lease obligations which include supply agreements structured as leases; and
+▪
+debt obligations.
+Obligations outlined above are discussed in greater detail in "Note 4: Non-Controlling Interests", "Note 19: Commitments and Contingencies" and "Note 13: Borrowings" within Notes to Consolidated Financial Statements.
+The expected timing of payments of our obligations is estimated based on current information. Timing of payments and actual amounts paid may be different, depending on the timing of receipt of goods or services or changes to agreed-upon amounts for some obligations. In addition, some of our purchasing requirements are not current obligations and are therefore not included in the amounts above. For example, some of these requirements are not subject to binding contractual arrangements or are fulfilled by vendors on a purchase order basis within short time horizons.
+MD&A
+31
+Cash Flows
+Cash flows from operating, investing and financing activities were as follows:
+Years Ended (In Millions)
+Dec 27, 2025
+Dec 28, 2024
+Dec 30, 2023
+Net cash provided by (used for) operating activities
+$
+9,697 
+$
+8,288 
+$
+11,471 
+Net cash provided by (used for) investing activities
+(14,821)
+(18,256)
+(24,041)
+Net cash provided by (used for) financing activities
+11,587 
+11,138 
+8,505 
+Net increase (decrease) in cash and cash equivalents
+$
+6,463
+ 
+$
+1,170
+ 
+$
+(4,065)
+Operating Activities
+2025 vs. 2024
+Operating cash flows consist of net income (loss) adjusted for certain non-cash items and changes in certain assets and liabilities.
+Cash provided by operations in 2025 was higher by $1.4 billion compared to 2024, primarily due to generating net income in 2025 compared to a net loss in 2024. Net income in 2025 was favorably impacted by lower 2025 payroll related expenses resulting from headcount reductions under the 2025 and 2024 Restructuring Plans and other cost-reduction measures. These 2025 cash-favorable impacts were partially offset by lower favorable operating cash flow adjustments for non-cash items and certain cash unfavorable changes in working capital, both of which occurred in 2025 compared to 2024.
+Investing Activities
+2025 vs. 2024
+Investing cash flows consist primarily of capital expenditures; investment purchases, sales, maturities and disposals; proceeds from capital-related government incentives; and proceeds from divestitures. 
+The decrease in cash used for investing activities in 2025 compared to 2024 was primarily due to lower capital expenditures, higher proceeds from the divestitures of our Altera and NAND memory businesses, and other cash-favorable investing activity, in each case in 2025 as compared to 2024. These 2025 cash-favorable activities were partially offset by the cash-unfavorable effects of higher purchases of short-term investments, net of sales and maturities, lower sales of equity investments, and lower proceeds from capital-related government incentives, in each case in 2025 as compared to 2024.
+Financing Activities
+2025 vs. 2024
+Financing cash flows consist primarily of proceeds from strategic initiatives, including SCIP partner contributions, equity-related issuances, issuance and repayment of short-term and long-term debt, financing for capital expenditures with extended payment terms, and payments of dividends to stockholders.
+The increase in cash provided by financing activities in 2025 compared to 2024 was primarily due to higher accelerated funds received from the U.S. government that we attributed for accounting purposes to common stock, warrants and Escrowed Shares issued, proceeds received from private sales of our common stock to Nvidia and Softbank Group, the absence of dividend payments, and proceeds from the sale of Mobileye shares, in each case in 2025 as compared to 2024. These 2025 cash favorable financing activities were partially offset by lower SCIP partner contributions, lower debt and commercial paper issuances, higher debt repayments, higher capital expenditures, and other cash-unfavorable financing activity in 2025 as compared to 2024.
+Properties
+As of December 27, 2025, our major facilities consisted of:
+Square Feet (In Millions)
+United
+States
+Other
+Countries
+Total
+Owned facilities
+35 
+25 
+60 
+Leased facilities
+2 
+3 
+5 
+Total facilities
+37
+ 
+28
+ 
+65
+ 
+The facilities described above, including our principal executive offices located in the U.S., are suitable for our present purposes. The productive capacity in our facilities is being utilized or being prepared for utilization in support of our strategy. For more information on our manufacturing sites, see "Foundry" within "Our Business" in this Form 10-K.
+We do not identify or allocate assets by operating segment; however, the majority of our facilities footprint supports manufacturing capabilities used by our Intel Foundry operating segment. For information on property, plant and equipment, net by country, see "Note 6: Other Financial Statement Details" within Notes to Consolidated Financial Statements.
+MD&A
+32

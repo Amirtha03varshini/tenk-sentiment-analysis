@@ -1,0 +1,91 @@
+
+=== AAPL : resolving company ===
+    Apple Inc. (CIK 0000320193)
+=== AAPL : listing 10 most recent 10-Ks ===
+    FY2025 10-K filed 2025-10-31 (B/S date 2025-09-27)
+    FY2024 10-K filed 2024-11-01 (B/S date 2024-09-28)
+    FY2023 10-K filed 2023-11-03 (B/S date 2023-09-30)
+    FY2022 10-K filed 2022-10-28 (B/S date 2022-09-24)
+    FY2021 10-K filed 2021-10-29 (B/S date 2021-09-25)
+    FY2020 10-K filed 2020-10-30 (B/S date 2020-09-26)
+    FY2019 10-K filed 2019-10-31 (B/S date 2019-09-28)
+    FY2018 10-K filed 2018-11-05 (B/S date 2018-09-29)
+    FY2017 10-K filed 2017-11-03 (B/S date 2017-09-30)
+    FY2016 10-K filed 2016-10-26 (B/S date 2016-09-24)
+=== AAPL : downloading filings ===
+    saved filings/AAPL/AAPL_10K_FY2016_2016-10-26.htm
+    saved filings/AAPL/AAPL_10K_FY2017_2017-11-03.htm
+    saved filings/AAPL/AAPL_10K_FY2018_2018-11-05.htm
+    saved filings/AAPL/AAPL_10K_FY2019_2019-10-31.htm
+    saved filings/AAPL/AAPL_10K_FY2020_2020-10-30.htm
+    saved filings/AAPL/AAPL_10K_FY2021_2021-10-29.htm
+    saved filings/AAPL/AAPL_10K_FY2022_2022-10-28.htm
+    saved filings/AAPL/AAPL_10K_FY2023_2023-11-03.htm
+    saved filings/AAPL/AAPL_10K_FY2024_2024-11-01.htm
+    saved filings/AAPL/AAPL_10K_FY2025_2025-10-31.htm
+=== AAPL : extracting MD&A & statements ===
+    MD&A -> mdna_text/AAPL_MDA_FY2025_2025-10-31.txt
+    FY2025: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/AAPL_MDA_FY2024_2024-11-01.txt
+    FY2024: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/AAPL_MDA_FY2023_2023-11-03.txt
+    FY2023: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/AAPL_MDA_FY2022_2022-10-28.txt
+    FY2022: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/AAPL_MDA_FY2021_2021-10-29.txt
+    FY2021: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/AAPL_MDA_FY2020_2020-10-30.txt
+    FY2020: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/AAPL_MDA_FY2019_2019-10-31.txt
+    FY2019: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/AAPL_MDA_FY2018_2018-11-05.txt
+    FY2018: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/AAPL_MDA_FY2017_2017-11-03.txt
+    FY2017: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/AAPL_MDA_FY2016_2016-10-26.txt
+    FY2016: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+=== AAPL : cleaning text & scoring sentiment ===
+Fiscal Year  Total Words  Negative Count  Negative %  Positive Count  Positive %  Uncertainty Count  Uncertainty %  Litigious Count  Litigious %  Strong_Modal Count  Strong_Modal %  Weak_Modal Count  Weak_Modal %  Constraining Count  Constraining %  P/N Ratio
+     FY2016         8356             107    1.280517              25    0.299186                126       1.507899               65     0.777884                  24        0.287219                42      0.502633                  65        0.777884   0.233645
+     FY2017         8556             110    1.285647              25    0.292193                132       1.542777               60     0.701262                  31        0.362319                49      0.572698                  68        0.794764   0.227273
+     FY2018         8182              84    1.026644              35    0.427768                123       1.503300               61     0.745539                  27        0.329993                49      0.598876                  64        0.782205   0.416667
+     FY2019         4718              47    0.996185               9    0.190759                 69       1.462484               30     0.635863                  10        0.211954                22      0.466299                  44        0.932599   0.191489
+     FY2020         4465              56    1.254199               6    0.134378                 62       1.388578               23     0.515118                  10        0.223964                23      0.515118                  51        1.142217   0.107143
+     FY2021         2610              14    0.536398              13    0.498084                 31       1.187739               14     0.536398                   5        0.191571                10      0.383142                  24        0.919540   0.928571
+     FY2022         2425              26    1.072165               6    0.247423                 25       1.030928               13     0.536082                   3        0.123711                 8      0.329897                  21        0.865979   0.230769
+     FY2023         2139              16    0.748013               1    0.046751                 23       1.075269               13     0.607761                   3        0.140252                 8      0.374007                  20        0.935016   0.062500
+     FY2024         2083              17    0.816131               3    0.144023                 22       1.056169               13     0.624100                   9        0.432069                 8      0.384061                  27        1.296207   0.176471
+     FY2025         2451              20    0.815993               5    0.203998                 30       1.223990               14     0.571195                  12        0.489596                12      0.489596                  30        1.223990   0.250000
+=== AAPL : fetching fundamentals (XBRL) ===
+    Revenue: 19 annual periods
+    NetIncome: 19 annual periods
+    Assets: 18 annual periods
+    AssetsCurrent: 18 annual periods
+    LiabilitiesCurrent: 18 annual periods
+    Liabilities: 18 annual periods
+    EquityTotal: 20 annual periods
+=== AAPL : computing ratios ===
+Fiscal Year Balance Sheet Date  Revenue ($)  Net Income ($)  Total Assets ($)  Current Ratio  Liabilities-to-Equity  Asset Turnover  Net Profit Margin
+     FY2016         2016-09-24 215639000000     45687000000      321686000000       1.352669               1.508292        0.704667           0.211868
+     FY2017         2017-09-30 229234000000     48351000000      375319000000       1.276063               1.799906        0.657769           0.210924
+     FY2018         2018-09-29 265595000000     59531000000      365725000000       1.132926               2.413301        0.716813           0.224142
+     FY2019         2019-09-28 260174000000     55256000000      338516000000       1.540126               2.741004        0.738878           0.212381
+     FY2020         2020-09-26 274515000000     57411000000      323888000000       1.363604               3.957039        0.828845           0.209136
+     FY2021         2021-09-25 365817000000     94680000000      351002000000       1.074553               4.563512        1.084079           0.258818
+     FY2022         2022-09-24 394328000000     99803000000      352755000000       0.879356               5.961537        1.120637           0.253096
+     FY2023         2023-09-30 383285000000     96995000000      352583000000       0.988012               4.673462        1.086812           0.253062
+     FY2024         2024-09-28 391035000000     93736000000      364980000000       0.867313               5.408780        1.089897           0.239713
+     FY2025         2025-09-27 416161000000    112010000000      359241000000       0.893293               3.872187        1.149265           0.269151
+=== AAPL : fetching stock prices ===
+    2016-09-24: $28.18
+    2017-09-30: $38.53
+    2018-09-29: $56.44
+    2019-09-28: $54.71
+    2020-09-26: $112.28
+    2021-09-25: $146.92
+    2022-09-24: $150.43
+    2023-09-30: $171.21
+    2024-09-28: $227.79
+    2025-09-27: $255.46
+=== AAPL : building Excel workbook ===
+    workbook -> /home/user/workspace/genai_10k_project/output/AAPL_10K_Analysis.xlsx

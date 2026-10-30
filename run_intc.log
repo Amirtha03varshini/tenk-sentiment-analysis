@@ -1,0 +1,91 @@
+
+=== INTC : resolving company ===
+    INTEL CORP (CIK 0000050863)
+=== INTC : listing 10 most recent 10-Ks ===
+    FY2025 10-K filed 2026-01-23 (B/S date 2025-12-27)
+    FY2024 10-K filed 2025-01-31 (B/S date 2024-12-28)
+    FY2023 10-K filed 2024-01-26 (B/S date 2023-12-30)
+    FY2022 10-K filed 2023-01-27 (B/S date 2022-12-31)
+    FY2021 10-K filed 2022-01-27 (B/S date 2021-12-25)
+    FY2020 10-K filed 2021-01-22 (B/S date 2020-12-26)
+    FY2019 10-K filed 2020-01-24 (B/S date 2019-12-28)
+    FY2018 10-K filed 2019-02-01 (B/S date 2018-12-29)
+    FY2017 10-K filed 2018-02-16 (B/S date 2017-12-30)
+    FY2016 10-K filed 2017-02-17 (B/S date 2016-12-31)
+=== INTC : downloading filings ===
+    saved filings/INTC/INTC_10K_FY2016_2017-02-17.htm
+    saved filings/INTC/INTC_10K_FY2017_2018-02-16.htm
+    saved filings/INTC/INTC_10K_FY2018_2019-02-01.htm
+    saved filings/INTC/INTC_10K_FY2019_2020-01-24.htm
+    saved filings/INTC/INTC_10K_FY2020_2021-01-22.htm
+    saved filings/INTC/INTC_10K_FY2021_2022-01-27.htm
+    saved filings/INTC/INTC_10K_FY2022_2023-01-27.htm
+    saved filings/INTC/INTC_10K_FY2023_2024-01-26.htm
+    saved filings/INTC/INTC_10K_FY2024_2025-01-31.htm
+    saved filings/INTC/INTC_10K_FY2025_2026-01-23.htm
+=== INTC : extracting MD&A & statements ===
+    MD&A -> mdna_text/INTC_MDA_FY2025_2026-01-23.txt
+    FY2025: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/INTC_MDA_FY2024_2025-01-31.txt
+    FY2024: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/INTC_MDA_FY2023_2024-01-26.txt
+    FY2023: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/INTC_MDA_FY2022_2023-01-27.txt
+    FY2022: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/INTC_MDA_FY2021_2022-01-27.txt
+    FY2021: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/INTC_MDA_FY2020_2021-01-22.txt
+    FY2020: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/INTC_MDA_FY2019_2020-01-24.txt
+    FY2019: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/INTC_MDA_FY2018_2019-02-01.txt
+    FY2018: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/INTC_MDA_FY2017_2018-02-16.txt
+    FY2017: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+    MD&A -> mdna_text/INTC_MDA_FY2016_2017-02-17.txt
+    FY2016: ['Income Statement', 'Balance Sheet', 'Cash Flows']
+=== INTC : cleaning text & scoring sentiment ===
+Fiscal Year  Total Words  Negative Count  Negative %  Positive Count  Positive %  Uncertainty Count  Uncertainty %  Litigious Count  Litigious %  Strong_Modal Count  Strong_Modal %  Weak_Modal Count  Weak_Modal %  Constraining Count  Constraining %  P/N Ratio
+     FY2016         7039              56    0.795568              53    0.752948                 70       0.994459               27     0.383577                  11        0.156272                12      0.170479                  57        0.809774   0.946429
+     FY2017         6466              47    0.726879              79    1.221775                 39       0.603155               17     0.262914                   7        0.108259                 6      0.092793                  50        0.773276   1.680851
+     FY2018         8035              72    0.896080             130    1.617922                 39       0.485376               16     0.199129                   9        0.112010                 6      0.074673                  57        0.709396   1.805556
+     FY2019        10102              74    0.732528             177    1.752128                 46       0.455355               15     0.148485                  13        0.128687                10      0.098990                  62        0.613740   2.391892
+     FY2020        11037              98    0.887922             187    1.694301                 45       0.407719               17     0.154027                  21        0.190269                12      0.108725                  56        0.507384   1.908163
+     FY2021        13132             119    0.906183             193    1.469692                 67       0.510204               19     0.144685                  23        0.175145                18      0.137070                  68        0.517819   1.621849
+     FY2022        13946             143    1.025384             181    1.297863                 86       0.616664               31     0.222286                  23        0.164922                29      0.207945                  63        0.451742   1.265734
+     FY2023        28284             821    2.902701             288    1.018244                449       1.587470              229     0.809645                  52        0.183850               243      0.859143                 237        0.837930   0.350792
+     FY2024        25948             816    3.144751             270    1.040543                424       1.634037              200     0.770772                  51        0.196547               238      0.917219                 250        0.963465   0.330882
+     FY2025         7886             153    1.940147              72    0.913010                 44       0.557951               17     0.215572                   7        0.088765                19      0.240933                  75        0.951052   0.470588
+=== INTC : fetching fundamentals (XBRL) ===
+    Revenue: 19 annual periods
+    NetIncome: 19 annual periods
+    Assets: 18 annual periods
+    AssetsCurrent: 18 annual periods
+    LiabilitiesCurrent: 18 annual periods
+    Liabilities: 0 annual periods
+    EquityTotal: 20 annual periods
+=== INTC : computing ratios ===
+Fiscal Year Balance Sheet Date  Revenue ($)  Net Income ($)  Total Assets ($)  Current Ratio  Liabilities-to-Equity  Asset Turnover  Net Profit Margin
+     FY2016         2016-12-31  59387000000     10316000000      113327000000       1.748990               0.711216        0.552988           0.173708
+     FY2017         2017-12-30  62761000000      9601000000      123249000000       1.693359               0.769472        0.530578           0.152977
+     FY2018         2018-12-29  70848000000     21053000000      127963000000       1.731445               0.716173        0.564049           0.297157
+     FY2019         2019-12-28  71965000000     21048000000      136524000000       1.400224               0.761509        0.544186           0.292476
+     FY2020         2020-12-26  77867000000     20899000000      153091000000       1.908742               0.889126        0.537728           0.268394
+     FY2021         2021-12-25  79024000000     19868000000      168406000000       2.132328               0.765429        0.491600           0.251417
+     FY2022         2022-12-31  63054000000      8014000000      182103000000       1.567626               0.763095        0.359785           0.127097
+     FY2023         2023-12-30  54228000000      1689000000      191572000000       1.542402               0.742118        0.290242           0.031146
+     FY2024         2024-12-28  53101000000    -18756000000      196485000000       1.326866               0.870716        0.273676          -0.353214
+     FY2025         2025-12-27  52853000000      -267000000      211429000000       2.017039               0.673227        0.259138          -0.005052
+=== INTC : fetching stock prices ===
+    2016-12-31: $36.27
+    2017-12-30: $46.16
+    2018-12-29: $46.75
+    2019-12-28: $60.08
+    2020-12-26: $47.07
+    2021-12-25: $51.31
+    2022-12-31: $26.43
+    2023-12-30: $50.25
+    2024-12-28: $20.30
+    2025-12-27: $36.20
+=== INTC : building Excel workbook ===
+    workbook -> /home/user/workspace/genai_10k_project/output/INTC_10K_Analysis.xlsx

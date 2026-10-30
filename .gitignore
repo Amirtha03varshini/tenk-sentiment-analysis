@@ -1,0 +1,11 @@
+# Licensed dictionary + downloaded SEC filings (large): not for GitHub
+data/Loughran-McDonald_MasterDictionary_1993-2025.csv
+filings/
+
+# Build artifacts not needed in the repo
+TenK_Sentiment_App.zip
+user_prompt_1.txt
+output/Lab_Document_10K_Sentiment_Analysis.docx
+output/Lab_Document_10K_Sentiment_Analysis.pdf
+__pycache__/
+*.pyc
